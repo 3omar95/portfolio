@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Omar Gamal Elsherbiny  
 
-Welcome to my **Data Science & AI Portfolio** 
+Welcome to my **Data Science & AI Portfolio** 🚀  
 
 I’m a **Data Scientist** with a distinction-level MSc and hands-on experience delivering **machine learning, AI, and analytics solutions** across telecom, travel, real estate, and marketing.  
-I specialize in building **end-to-end AI systems** — from data engineering and model development to deployment and visualization — always with a focus on measurable business impact.  
+I specialize in building **end-to-end AI systems** that cover data engineering, model development, deployment, and visualization. My work focuses on measurable business impact, improving decision-making, optimizing user experience, and driving value.  
 
 ---
 
