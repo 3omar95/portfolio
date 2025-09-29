@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Gamal Elsherbiny  
+# 👋 Omar Gamal Elsherbiny | Data Scientist 
 
 Welcome to my **Data Science & AI Portfolio** 🚀  
 
