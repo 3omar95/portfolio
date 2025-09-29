@@ -20,26 +20,41 @@ A full pipeline combining *Computer Vision (YOLOv8 + BYTETrack), **Traffic Volum
 
 ## 🛠 Skills & Tools  
 
-**Languages & Programming**  
-Python | SQL | R | Bash  
+**Programming & Data Handling**  
+- Python, R, SQL, Bash, Excel  
+- Pandas, NumPy, SciPy, PySpark  
 
-**Machine Learning & AI**  
-Supervised & Unsupervised Learning | LSTM | GRU | CNN | Attention | YOLOv8 | Transformers  
+**Machine Learning & Statistics**  
+- Supervised & Semi-Supervised Learning  
+- Classification, Regression, Clustering, Anomaly Detection  
+- Hyperparameter Tuning, A/B Testing, Feature Engineering, Dimensionality Reduction  
 
-**NLP & LLMs**  
-Hugging Face | LangChain | Prompt Engineering | Fine-tuning | RAG  
+**Deep Learning & Computer Vision**  
+- TensorFlow, PyTorch, Torchvision  
+- LSTM, GRU, CNN, Attention Mechanisms  
+- YOLOv8, OpenCV  
 
-**Data Engineering**  
-ETL Pipelines | API Integration | SQL Automation | Docker | Kubernetes  
+**NLP & Generative AI**  
+- Hugging Face, NLTK, SpaCy  
+- Transformers, VAE, LLM Fine-tuning, RAG  
+- LangChain, Prompt Engineering  
 
-**Visualization & BI**  
-Power BI | Plotly | Seaborn | Matplotlib | Metabase  
+**Data Engineering & Automation**  
+- ETL Pipelines, API Integration, SQL Automation, Web Scraping  
+- Workflow Orchestration, Linux Cron Jobs  
+- Docker, Kubernetes  
 
-**Deployment**  
-Flask | FastAPI | Dash | AWS | GCP  
+**Visualization & BI Tools**  
+- Power BI, Metabase, Google Analytics  
+- Matplotlib, Seaborn, Plotly  
 
-**Workflow & Collaboration**  
-Git | GitHub | Agile | CI/CD basics  
+**Deployment & MLOps**  
+- Flask, FastAPI, Dash  
+- AWS, Google Cloud Platform  
+- Version Control (Git, GitHub), Agile, CI/CD basics  
+
+**Business & CRM Tools**  
+- Salesforce, Pipedrive  
 
 ---
 
