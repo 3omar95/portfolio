@@ -14,7 +14,7 @@ A full pipeline combining **Computer Vision (YOLOv8 + BYTETrack)**, **Traffic Vo
 - *Goal*: Detect and count vehicles in real time and forecast next-hour traffic flow.  
 - *Key Results*: XGBoost with PCA achieved the best performance with R² ≈ 0.97.  
 - *Features*: Interactive dashboard, lane-based vehicle counting, time-series forecasting.  
-🔗 [View Repository](https://github.com/3omar95/end-to-end-traffic-analytics)
+🔗 [View Project](https://github.com/3omar95/end-to-end-traffic-analytics)
 
 ---
 
