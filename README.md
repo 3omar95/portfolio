@@ -10,7 +10,7 @@ I specialize in building **end-to-end AI systems** — from data engineering and
 ## 🚀 Featured Projects
 
 ### End-to-End Traffic Forecasting System  
-A full pipeline combining *Computer Vision (YOLOv8 + BYTETrack), **Traffic Volume Forecasting (XGBoost, LSTM, GRU, ConvLSTM), and **Web Deployment (Dash/Plotly)*.  
+A full pipeline combining **Computer Vision (YOLOv8 + BYTETrack)**, **Traffic Volume Forecasting (XGBoost, LSTM, GRU, ConvLSTM)**, and **Web Deployment (Dash/Plotly)**.  
 - *Goal*: Detect and count vehicles in real time and forecast next-hour traffic flow.  
 - *Key Results*: XGBoost with PCA achieved the best performance with R² ≈ 0.97.  
 - *Features*: Interactive dashboard, lane-based vehicle counting, time-series forecasting.  
