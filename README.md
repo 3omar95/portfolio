@@ -9,12 +9,28 @@ I specialize in building **end-to-end AI systems** that cover data engineering, 
 
 ## 🚀 Featured Projects
 
-### End-to-End Traffic Forecasting System  
+### 1. End-to-End Traffic Forecasting System  
 A full pipeline combining **Computer Vision (YOLOv8 + BYTETrack)**, **Traffic Volume Forecasting (XGBoost, LSTM, GRU, ConvLSTM)**, and **Web Deployment (Dash/Plotly)**.  
 - *Goal*: Detect and count vehicles in real time and forecast next-hour traffic flow.  
 - *Key Results*: XGBoost with PCA achieved the best performance with R² ≈ 0.97.  
 - *Features*: Interactive dashboard, lane-based vehicle counting, time-series forecasting.  
 🔗 [View Project](https://github.com/3omar95/end-to-end-traffic-analytics)
+
+---
+
+### 2. Smart Data Exploration Agent  
+An **AI-driven data exploration system** that empowers both **data analysts** and **non-technical users** to query databases using natural language instead of SQL.  
+- *Goal*: Accelerate data analysis workflows and enable intuitive database exploration without writing SQL code.  
+- *Core Components*: Semantic schema mapping, intelligent SQL generation, and a self-correcting feedback loop.  
+- *Tech Stack*: OpenAI, Claude, Sentence-Transformers, SQLite, Streamlit, Seaborn, Matplotlib.  
+- *Key Features*:  
+  - Automatic extraction of database schema (tables, columns, types)  
+  - Semantic similarity mapping between user intent and relevant table fields  
+  - LLM-based SQL generation with automated error handling and correction  
+  - Interactive Streamlit interface for visualizing query results (bar and line charts)  
+  - Independent *LLM Judge* module for **validation scoring only** (not part of the main pipeline)  
+- *Results*: Improved query success rate through automatic corrections and achieved an average **validation score of 7.4 / 10**, indicating strong SQL generation reliability.  
+🔗 [View Project](https://github.com/3omar95/smart-data-exploration-agent)
 
 ---
 
