@@ -30,7 +30,7 @@ An **AI-driven data exploration system** that empowers both **data analysts** an
   - LLM-based SQL generation with automated error handling and correction  
   - Interactive Streamlit interface for visualizing query results (bar and line charts)
   
-🔗 [View Project](https://github.com/3omar95/smart-data-exploration-agent)
+🔗 [View Project](https://github.com/3omar95/smart-data-exploration-agent-project)
 
 ---
 
